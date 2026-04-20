@@ -13,6 +13,8 @@
     "@base-ui/react": "^1.4.1",
     "@prisma/adapter-pg": "^7.7.0",
     "@prisma/client": "^7.7.0",
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.0",
     "@tailwindcss/typography": "^0.5.19",
     "@tiptap/extension-character-count": "^3.22.4",
     "@tiptap/extension-code-block-lowlight": "^3.22.4",
@@ -39,7 +41,6 @@
     "next-auth": "^5.0.0-beta.31",
     "next-themes": "^0.4.6",
     "pg": "^8.20.0",
-    "prisma": "^7.7.0",
     "react": "19.2.4",
     "react-day-picker": "^9.14.0",
     "react-dom": "19.2.4",
@@ -61,6 +62,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
+    "prisma": "^7.7.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
